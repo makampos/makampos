@@ -5,8 +5,8 @@ Welcome to my GitHub profile!
 :goat: Salutations from your friendly neighborhood tech enthusiast and engineer, hailing from vibrant Brazil! 🇧🇷
 
 ## 🚀 About Me
-- 💻 I’m currently helping to build Era, where people can get the most out of their money and achieve financial freedom.
-- 🌱 I'm diving into the subject of Event-driven architecture and systems.
+- 💻 I’m currently collorating to build Era, where people can get the most out of their money and achieve financial freedom.
+- 🌱 I'm diving into the subject of Event-driven architecture and Microsoft Orleans.
 - 👯 I’m interested in collaborating on projects that make a positive impact on people's lives.
 - 💬 Ask me about any of the technologies or tools I've used in the past or am currently using. I'm always open to discussing, learning, and helping others.
 - 📫 You can reach me at matheus.campos@edu.unifil.br
@@ -76,7 +76,7 @@ Welcome to my GitHub profile!
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=makampos&show_icons=true&theme=Graywhite)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makampos&layout=compact&theme=Graywhite)
 
-## 📚 Recent Articles
+## 📝 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Build Team Trust?](https://www.linkedin.com/pulse/how-build-team-trust-matheus-de-campos-e4ctf?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
