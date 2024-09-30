@@ -5,12 +5,10 @@ Welcome to my GitHub profile!
 :goat: Salutations from your friendly neighborhood tech enthusiast and engineer, hailing from vibrant Brazil! 🇧🇷
 
 ## 🚀 About Me
-- 💻 I’m currently collorating to build Era, where people can get the most out of their money and achieve financial freedom.
-- 🌱 I'm diving into the subject of Event-driven architecture and Microsoft Orleans.
-- 👯 I’m interested in collaborating on projects that make a positive impact on people's lives.
-- 💬 Ask me about any of the technologies or tools I've used in the past or am currently using. I'm always open to discussing, learning, and helping others.
-- 📫 You can reach me at matheus.campos@edu.unifil.br
-- ⚡ Fun fact: I used to be a content creator/communicator in the gaming industry for about 2 years, where I achieved 10K subscribers on my YouTube channel and a bit more than 12K followers on my Twitch channel. However, I decided to pursue another path. So, if you ever need tips on gaming or creating content, I might have a few tricks up my sleeve!
+- 🌱 I’m getting pretty obsessed with **Event-sourcing architecture** and **Microsoft Orleans** right now—breaking things and figuring out how they work is kind of my thing.
+- 👯 I love working on projects that actually help people and make life easier. If it’s something meaningful, I’m all in.
+- 💬 I’ve used tools I had no clue about (until I messed with them enough to understand), and honestly, I can’t stop testing stuff. If you want to chat tech, troubleshoot something, or just nerd out about testing, hit me up!
+
 
 ## 🛠️ Technologies & Tools
 
